@@ -1137,6 +1137,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   <itemUIPrefab>k__BackingField: {fileID: 1846738093913358977, guid: be3ba2c386d1abf44baa61cff6475bc5,
     type: 3}
+  <gridConfig>k__BackingField: {fileID: 0}
   <layoutElementOnGridBackground>k__BackingField: {fileID: 4005059850014574261}
 --- !u!1 &902530134643683000
 GameObject:
@@ -6060,6 +6061,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   <itemUIPrefab>k__BackingField: {fileID: 1846738093913358977, guid: be3ba2c386d1abf44baa61cff6475bc5,
     type: 3}
+  <gridConfig>k__BackingField: {fileID: 0}
   <layoutElementOnGridBackground>k__BackingField: {fileID: 1971010470145117823}
 --- !u!1 &4402973596163862346
 GameObject:
@@ -7459,7 +7461,6 @@ GameObject:
   - component: {fileID: 1470441636855047299}
   - component: {fileID: 1484532178839322949}
   - component: {fileID: 7895310975086437069}
-  - component: {fileID: 7595991941911009004}
   m_Layer: 5
   m_Name: EquipPan_#
   m_TagString: Untagged
@@ -7540,18 +7541,6 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!114 &7595991941911009004
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5513390884876165328}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e55f5c2c7cb1cc4aa09833a86fcd5d0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &5543021608702965581
 GameObject:
   m_ObjectHideFlags: 0
