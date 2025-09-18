@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f762ea21110088b46a599351b8e1f6b4, type: 3}
+  m_Name: LootBoxGrid
+  m_EditorClassIdentifier: 
+  <invnetoryType>k__BackingField: 1
+  <Padding>k__BackingField:
+    Left: 15
+    Right: 15
+    Top: 15
+    Bottom: 50
+  <CellSize>k__BackingField: {x: 50, y: 50}
+  <Spacing>k__BackingField: {x: 0, y: 0}
+  <ColumnCount>k__BackingField: 12
+  <RowCount>k__BackingField: 40
+  <AutoExpand>k__BackingField: 1
+  <NewRowsDynamic>k__BackingField: 6
+  <ThresholdExpand>k__BackingField: 0.9

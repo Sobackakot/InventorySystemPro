@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5015ec3a6b47f134b83612cf8d8c9886, type: 3}
+  m_Name: ItemTetris 2
+  m_EditorClassIdentifier: 
+  <ItemId>k__BackingField: c5bb7091-e86e-41f4-bbd3-a1bc7ce03425
+  <Rotatable>k__BackingField: 0
+  <Stackable>k__BackingField: 0
+  <MaxStack>k__BackingField: 1
+  <NameItem>k__BackingField: Weapon
+  <IconItem>k__BackingField: {fileID: -1375144913, guid: 3b8109a421a07c5429e83155ee430cb0,
+    type: 3}
+  <Size>k__BackingField: {x: 3, y: 1}
